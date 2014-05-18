@@ -23,5 +23,7 @@ This video shows how to use a RPi as an internet passthrough device
 
 https://www.youtube.com/watch?v=ZaHu0PratLU
 
+Using the RPi for man in the middle interception
 
+http://jeffq.com/blog/setting-up-a-man-in-the-middle-device-with-raspberry-pi-part-1/
 
