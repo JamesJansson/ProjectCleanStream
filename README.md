@@ -32,4 +32,5 @@ Alternative for Android devices:
 Note that the following application only saves the IPs visited. A method needs to be established to make the phone a HTTP server to allow the computer connnected to phone and match sites visited with data sent and received over the connection.
 https://play.google.com/store/apps/details?id=jp.co.taosoftware.android.packetcapture
 
-
+A possibility would be to connect the laptop to the phone via USB to browser the files stored in the SD card in PCAP format. It will be necessary to allow the app to write to the SD card while it is mounted on the PC. 
+http://en.wikipedia.org/wiki/Pcap#Programs_that_use_libpcap.2FWinPcap
