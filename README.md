@@ -27,3 +27,9 @@ Using the RPi for man in the middle interception
 
 http://jeffq.com/blog/setting-up-a-man-in-the-middle-device-with-raspberry-pi-part-1/
 
+Alternative for Android devices:
+
+Note that the following application only saves the IPs visited. A method needs to be established to make the phone a HTTP server to allow the computer connnected to phone and match sites visited with data sent and received over the connection.
+https://play.google.com/store/apps/details?id=jp.co.taosoftware.android.packetcapture
+
+
